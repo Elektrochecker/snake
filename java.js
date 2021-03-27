@@ -45,6 +45,8 @@ function render() {
 
     text(snake.total.length, 2, 15);
 
+    stroke(255)
+    strokeWeight(1);
     fill(foodCol);
     rect(foodLoc[0] * size, foodLoc[1] * size, size, size);
   }
