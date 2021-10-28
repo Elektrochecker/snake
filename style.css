@@ -1,0 +1,17 @@
+body {
+    background-color:rgb(66, 66, 66);
+    font-size: 100%;
+    font-family: arial;
+    color: #C4C4C4;
+}
+
+#removeText {
+	color: rgb(255, 255, 255);
+	text-transform: uppercase;
+	text-decoration: none;
+	background: #8f8f8f;
+	padding: 5px;
+	border-radius: 5px;
+	display: inline-block;
+	border: none;
+}
